@@ -10,8 +10,6 @@
 
 ```javascript
 const priyanshi = {
-    education: "BTech CSE - specializing in Cloud Computing & Virtualization Technology @ UPES",
-    cgpa: "8.74/10",
     languages: ["Java", "Python"],
     development: ["HTML", "CSS", "JavaScript", "Node.js", "Angular.js"],
     database: ["SQL", "MongoDB"],
