@@ -1,59 +1,26 @@
 # Hi there! 👋 I'm Priyanshi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Computing+%26+Virtualization+Specialist;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshi7299&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/Priyanshi7299?tab=followers">
-    <img src="https://img.shields.io/github/followers/Priyanshi7299?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Priyanshi7299?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Check%20them%20out-36BCF7?style=flat-square" alt="Repositories" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+Computing+%26+Virtualization+Enthusiast;DevOps+Engineer;AI+%26+ML+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```typescript
+```javascript
 const priyanshi = {
-    education: "BTech CSE - Cloud Computing & Virtualization @ UPES",
+    education: "BTech CSE - specializing in Cloud Computing & Virtualization Technology @ UPES",
     cgpa: "8.74/10",
-    currentFocus: ["Cloud Architecture", "Full Stack Development", "AI Integration"],
-    funFact: "I turn coffee into scalable cloud solutions! ☕️→☁️",
-    lifePhilosophy: "Code with purpose, build with passion, deploy with confidence",
-    currentlyLearning: ["Advanced AWS Services", "Kubernetes Orchestration", "ML Operations"],
-    openToWork: true,
-    lookingFor: "Cloud Engineer | Full Stack Developer | Software Engineer roles"
+    languages: ["Java", "Python"],
+    development: ["HTML", "CSS", "JavaScript", "Node.js", "Angular.js"],
+    database: ["SQL", "MongoDB"],
+    cloudDevOps: ["AWS", "Docker", "Kubernetes"],
+    tools: ["Git", "GitHub", "VS Code"],
+    coreCS: ["DSA", "OS", "DBMS", "OOP"],
+    openToWork: true
 };
 ```
-
-## 🎯 What I Do
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/>
-        <br><strong>Cloud Architecture</strong>
-        <br>Building scalable solutions on AWS
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
-        <br><strong>Full Stack Development</strong>
-        <br>Creating end-to-end web applications
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-        <br><strong>AI Integration</strong>
-        <br>Implementing smart solutions with ML
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🛠️ Tech Arsenal
 
@@ -63,21 +30,21 @@ const priyanshi = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -85,8 +52,11 @@ const priyanshi = {
 ## 🏆 Featured Projects
 
 <div align="center">
-  
-### 🎯 TaskHive - AI-Driven Productivity Platform
+
+### ✨ TaskHive - AI-Driven Productivity Platform
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Jan%202025-Apr%202025-blue?style=for-the-badge&logo=calendar&logoColor=white" />
+
 *"Gamified goal setting meets AI intelligence"*
 
 🔥 **30% increase in user engagement** | 📈 **20% boost in completion rates**
@@ -94,89 +64,99 @@ const priyanshi = {
 **Tech Stack:** React.js, Node.js, MongoDB, AWS (EC2, S3), AI/ML Models
 
 ---
-
-### 🏪 Bakery Management System
-*"Containerized commerce solution"*
-
-🐳 **Fully containerized** | 📦 **Microservices architecture**
-
-**Tech Stack:** Docker, PostgreSQL, RabbitMQ, Node.js
-
----
-
 ### 📊 DropSight - Product Success Predictor
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Aug%202024-Dec%202024-blue?style=for-the-badge&logo=calendar&logoColor=white" />
+
 *"Machine learning meets e-commerce analytics"*
 
 🧠 **Bayes' theorem implementation** | 🎯 **Intelligent recommendations**
 
 **Tech Stack:** Spring Boot, React.js, TypeScript, Java 18
 
-</div>
+---
 
-## 📈 GitHub Analytics
+### 🛍️ Bakery Management System
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Mar%202025-Apr%202025-blue?style=for-the-badge&logo=calendar&logoColor=white" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshi7299&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi7299&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+*"Containerized commerce solution"*
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi7299&theme=tokyonight" alt="GitHub Streak" />
+🐳 **Fully containerized** | 📦 **Microservices architecture**
+
+**Tech Stack:** Docker, PostgreSQL, RabbitMQ, Node.js
+
 </div>
 
 ## 🎖️ Experience & Leadership
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-        <br><strong>IBM Project Intern</strong>
-        <br>Cloud Migration Specialist
-        <br><em>Jun 2025 - Jul 2025</em>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/leadership.png" width="40"/>
-        <br><strong>Student Placement Rep</strong>
-        <br>BTech CSE CCVT
-        <br><em>Leadership Role</em>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/microsoft.png" width="40"/>
-        <br><strong>Editorial Head</strong>
-        <br>UPES Microsoft Community
-        <br><em>Technical Leadership</em>
-      </td>
-    </tr>
-  </table>
+  
+### 💼 Professional Experience
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+      <br><strong>IBM Project Intern</strong>
+      <br>📅 <em>Jun 2025 - Jul 2025</em>
+      <br>🎯 Legacy system migration to AWS RDS
+    </td>
+  </tr>
+</table>
+
+### 🏆 Leadership Roles
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/UPES-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+      <br><strong>Student Placement Representative</strong>
+      <br><em>BTech CSE CCVT</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <br><strong>Editorial Head</strong>
+      <br><em>UPES Microsoft Technical Community</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Srijan-8E44AD?style=for-the-badge&logo=users&logoColor=white" />
+      <br><strong>Group Lead</strong>
+      <br><em>Social Internship</em>
+    </td>
+  </tr>
+</table>
+
 </div>
-
-## 🌟 Quick Facts
-
-```yaml
-🎓 Education: BTech CSE - Cloud Computing & Virtualization (CGPA: 8.74/10)
-🏆 High School: 98.0% | Intermediate: 94.0%
-💼 Open to: Full-time opportunities in Cloud Engineering & Full Stack Development
-🌱 Currently Learning: Advanced Kubernetes, AWS Solutions Architecture
-⚡ Fun Fact: I can containerize anything - from applications to my morning routine!
-```
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-99a067272/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshi7299)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshi7299@gmail.com)
+<a href="https://www.linkedin.com/in/priyanshi-99a067272/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Priyanshi7299">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:priyanshi7299@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=twinkling"/>
   
-  **💡 "Building the future, one commit at a time"**
+  <br>
+  
+  **🚀 "Building scalable solutions in the cloud, one commit at a time"**
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Open+to+exciting+opportunities!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing!" alt="Footer Typing" />
+  
+  <br><br>
   
   *⭐ Don't forget to star my repositories if you find them interesting!*
 </div>
