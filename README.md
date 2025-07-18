@@ -86,44 +86,6 @@ const priyanshi = {
 
 </div>
 
-## 🎖️ Experience & Leadership
-
-<div align="center">
-  
-### 💼 Professional Experience
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-      <br><strong>IBM Project Intern</strong>
-      <br>📅 <em>Jun 2025 - Jul 2025</em>
-      <br>🎯 Legacy system migration to AWS RDS
-    </td>
-  </tr>
-</table>
-
-### 🏆 Leadership Roles
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/UPES-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-      <br><strong>Student Placement Representative</strong>
-      <br><em>BTech CSE CCVT</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-      <br><strong>Editorial Head</strong>
-      <br><em>UPES Microsoft Technical Community</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Srijan-8E44AD?style=for-the-badge&logo=users&logoColor=white" />
-      <br><strong>Group Lead</strong>
-      <br><em>Social Internship</em>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 🤝 Let's Connect!
 
